@@ -6,6 +6,7 @@ python -m pip install SpeechRecognition
 ```
 
 The Gitbash or Command Prompt doesnt recognize backslash and it recognizes forward slash
+
 Before:
 ``` bash
 cd "C:/.../..../.../ .../..."
